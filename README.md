@@ -17,9 +17,15 @@ Computer Science graduate focused on building practical web applications, backen
 - **Backend:** Django, Django REST Framework, REST APIs
 - **Frontend:** React, HTML, CSS, Tailwind CSS
 - **Data & AI:** pandas, scikit-learn, TF-IDF, cosine similarity
-- **Tools:** Git, GitHub, GitHub Actions, pytest, Vitest
+- **Data infrastructure:** PostgreSQL, SQLite, Supabase, Redis
+- **Tools:** Git, GitHub, GitHub Actions, pytest, Vitest, Docker
 
 ## Featured projects
+
+### [DevAtlas AI — Engineering Knowledge Workspace](https://github.com/awaisiftikharr/DevAtlas-AI)
+A full-stack engineering knowledge workspace. Milestone 1 is published with a Django REST API, React + TypeScript frontend, JWT registration/login, protected project CRUD, and Docker Compose foundations for PostgreSQL and Redis. Document ingestion, vector retrieval, and grounded RAG are planned roadmap features.
+
+**Stack:** Python, Django REST Framework, React, TypeScript, PostgreSQL, Redis, Docker
 
 ### [SmartFinds — E-Commerce with Product Recommendations](https://github.com/awaisiftikharr/Ecommerce-Website-with-Ai-Chatbot)
 Django e-commerce application featuring product browsing, cart and checkout demonstration flows, customer accounts, a rule-based product-help chatbot, and a reusable content-based recommendation engine using TF-IDF and cosine similarity.
